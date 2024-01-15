@@ -6,5 +6,4 @@ echo 2) running Unit tests
 
 echo 3) running Integration tests
 
-
 echo ============== tests passed ============== 
