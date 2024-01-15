@@ -2,9 +2,11 @@ echo  ============== starting tests ==============
 
 echo 1) running Static tests
 
-
 echo 2) running Unit tests
 
 echo 3) running Integration tests
 
 echo ============== tests passed ============== 
+
+hi
+hello
